@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 chmod u+x hello
-=======
-#!/bin/bash
-chmod u+x hello
->>>>>>> 4d7a09bcda1e3f822f252431a932765bf31d064a
